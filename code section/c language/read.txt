@@ -1,0 +1,4 @@
+NAME     ROLL.NO.  SUBJECT   MARKS
+GAURAV   1         COE       16
+PRINCE   2         COE       10
+NIKHIL   3         CP        25

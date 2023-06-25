@@ -1,0 +1,30 @@
+CID: c101
+ NAME: ritikr
+ Address: nagpur
+ Designation: s/wEngineer
+ SALARY: 50000
+
+CID: c102
+ NAME: karanj
+ Address: HeeraH
+ Designation: mumbai
+ SALARY: 0
+
+CID: 10000
+ NAME: dilipk
+ Address: mumbai
+ Designation: developer
+ SALARY: 10000
+
+CID: c104
+ NAME: dilipk
+ Address: mumbai
+ Designation: ceo
+ SALARY: 25000
+
+CID: c105
+ NAME: ankesh
+ Address: pune
+ Designation: labincharge
+ SALARY: 40000
+
